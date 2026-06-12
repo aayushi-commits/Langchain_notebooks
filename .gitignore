@@ -1,0 +1,35 @@
+# Environment variables
+.env
+
+# Python virtual environments
+.virtual/
+venv/
+myenv/
+env/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Documents folder
+documents/
+
+# Project-specific folder
+ragbook-notebooks-main/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
